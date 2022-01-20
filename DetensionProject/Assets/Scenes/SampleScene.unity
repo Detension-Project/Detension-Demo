@@ -1752,6 +1752,12 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 6592062412907452624, guid: d457830b622572640a804218f1796da7,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e49a7ecfc403dc94a8357af1b17b1dcc,
+        type: 3}
     - target: {fileID: 6626677550080980087, guid: d457830b622572640a804218f1796da7,
         type: 3}
       propertyPath: m_Name
@@ -7823,6 +7829,12 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 6592062412907452624, guid: d457830b622572640a804218f1796da7,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: cdbb450f6d9bf60499e823a32490005a,
+        type: 3}
     - target: {fileID: 6626677550080980087, guid: d457830b622572640a804218f1796da7,
         type: 3}
       propertyPath: m_Name
